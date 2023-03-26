@@ -1780,3 +1780,5 @@ Lib/site-packages/werkzeug/wrappers/response.py
 Lib/site-packages/werkzeug/wrappers/__pycache__/__init__.cpython-311.pyc
 Lib/site-packages/werkzeug/wrappers/__pycache__/request.cpython-311.pyc
 Lib/site-packages/werkzeug/wrappers/__pycache__/response.cpython-311.pyc
+__pycache__/crud.cpython-311.pyc
+db/test.sqlite
